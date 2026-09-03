@@ -1,0 +1,42 @@
+name: "Gameplay Alliance — Monitor 24/7"
+
+on:
+  schedule:
+    # Se ejecuta automáticamente cada 10 minutos (24 horas al día, 7 días a la semana)
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # Permite ejecutarlo manualmente con un clic en GitHub
+
+# Permisos necesarios para guardar el estado visto (seen_orders.json) en el repositorio
+permissions:
+  contents: write
+
+jobs:
+  check-orders:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Ejecutar chequeo de órdenes
+        env:
+          # Si configuraste un Secret en GitHub con tu topic, lo usa; si no, usa el de config.json
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: |
+          python ga_monitor.py --check-once
+
+      - name: Guardar estado de órdenes vistas
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if [[ -f seen_orders.json ]]; then
+            git add seen_orders.json
+            if ! git diff-index --quiet HEAD; then
+              git commit -m "chore: actualizar historial de órdenes vistas [skip ci]"
+              git push
+            fi
+          fi

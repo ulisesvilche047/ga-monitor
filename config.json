@@ -1,0 +1,31 @@
+{
+  "notifications": {
+    "ntfy": {
+      "enabled": true,
+      "topic": "ga_alertas_ulises_7b89",
+      "priority": 4,
+      "server": "https://ntfy.sh"
+    },
+    "telegram": {
+      "enabled": false,
+      "bot_token": "",
+      "chat_id": ""
+    },
+    "whatsapp": {
+      "enabled": false,
+      "phone_number": "",
+      "apikey": ""
+    }
+  },
+  "monitoring": {
+    "check_interval_seconds": 300,
+    "notify_on_reopen": true,
+    "notify_closing_soon": true,
+    "closing_soon_percentage": 90.0,
+    "category_filter": []
+  },
+  "api": {
+    "url": "https://hdk2i43wuiw3272mtnjgwwsaby0bkood.lambda-url.sa-east-1.on.aws/",
+    "dashboard_url": "https://gameplayalliance.gg/dashboard/"
+  }
+}
