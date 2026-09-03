@@ -1,8 +1,7 @@
 @echo off
-chcp 65001 > nul
 title Gameplay Alliance Monitor
 echo ===================================================
-echo   Gameplay Alliance — Monitor de Órdenes Abiertas
+echo   Gameplay Alliance - Monitor de Ordenes Abiertas
 echo ===================================================
 echo Iniciando monitor continuo (chequeo cada 5 minutos)...
 echo Puedes minimizar esta ventana.

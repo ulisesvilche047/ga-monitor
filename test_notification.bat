@@ -1,8 +1,7 @@
 @echo off
-chcp 65001 > nul
-title Probar Notificación Push
+title Probar Notificacion Push
 echo ===================================================
-echo   Enviando notificación push de prueba al celular...
+echo   Enviando notificacion push de prueba al celular...
 echo ===================================================
 python ga_monitor.py --test-notification
 echo.
