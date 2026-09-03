@@ -6,16 +6,16 @@
     "horas_subidas": 109.47,
     "horas_totales": 100.0,
     "precio_hora_usd": 3.0,
-    "last_seen": "2026-09-03T22:04:09.105214+00:00"
+    "last_seen": "2026-09-03T23:52:41.652509+00:00"
   },
   "GA-2026-017": {
     "call_id": "GA-2026-017",
     "titulo": "Mundo abierto y RPG",
     "completo": false,
-    "horas_subidas": 125.12,
+    "horas_subidas": 147.74,
     "horas_totales": 1500.0,
     "precio_hora_usd": 3.25,
-    "last_seen": "2026-09-03T22:04:09.105214+00:00"
+    "last_seen": "2026-09-03T23:52:41.652509+00:00"
   },
   "GA-2026-018": {
     "call_id": "GA-2026-018",
@@ -24,6 +24,6 @@
     "horas_subidas": 1011.43,
     "horas_totales": 1000.0,
     "precio_hora_usd": 3.0,
-    "last_seen": "2026-09-03T22:04:09.105214+00:00"
+    "last_seen": "2026-09-03T23:52:41.652509+00:00"
   }
 }
