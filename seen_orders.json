@@ -6,16 +6,16 @@
     "horas_subidas": 109.47,
     "horas_totales": 100.0,
     "precio_hora_usd": 3.0,
-    "last_seen": "2026-09-08T20:19:58.543371+00:00"
+    "last_seen": "2026-09-08T22:45:38.324230+00:00"
   },
   "GA-2026-017": {
     "call_id": "GA-2026-017",
     "titulo": "Mundo abierto y RPG",
     "completo": false,
-    "horas_subidas": 1050.99,
+    "horas_subidas": 1071.45,
     "horas_totales": 1500.0,
     "precio_hora_usd": 3.25,
-    "last_seen": "2026-09-08T20:19:58.543371+00:00"
+    "last_seen": "2026-09-08T22:45:38.324230+00:00"
   },
   "GA-2026-018": {
     "call_id": "GA-2026-018",
@@ -24,15 +24,15 @@
     "horas_subidas": 1011.43,
     "horas_totales": 1000.0,
     "precio_hora_usd": 3.0,
-    "last_seen": "2026-09-08T20:19:58.543371+00:00"
+    "last_seen": "2026-09-08T22:45:38.324230+00:00"
   },
   "GA-2026-015": {
     "call_id": "GA-2026-015",
     "titulo": "Shooters y combate",
     "completo": false,
-    "horas_subidas": 183.47,
+    "horas_subidas": 210.03,
     "horas_totales": 4500.0,
     "precio_hora_usd": 3.1,
-    "last_seen": "2026-09-08T20:19:58.543371+00:00"
+    "last_seen": "2026-09-08T22:45:38.324230+00:00"
   }
 }
