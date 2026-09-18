@@ -30,37 +30,37 @@
     "call_id": "GA-2026-015",
     "titulo": "Shooters y combate",
     "completo": false,
-    "horas_subidas": 1355.62,
+    "horas_subidas": 1363.24,
     "horas_totales": 4500.0,
     "precio_hora_usd": 3.1,
-    "last_seen": "2026-09-18T21:13:05.964922+00:00"
+    "last_seen": "2026-09-18T23:21:00.682661+00:00"
   },
   "GA-2026-016": {
     "call_id": "GA-2026-016",
     "titulo": "Survival, terror y co-op",
     "completo": false,
-    "horas_subidas": 643.73,
+    "horas_subidas": 654.42,
     "horas_totales": 3000.0,
     "precio_hora_usd": 3.1,
-    "last_seen": "2026-09-18T21:13:05.964922+00:00"
+    "last_seen": "2026-09-18T23:21:00.682661+00:00"
   },
   "GA-2026-023": {
     "call_id": "GA-2026-023",
     "titulo": "Mapa sin bordes: mundos abiertos",
     "completo": false,
-    "horas_subidas": 101.72,
+    "horas_subidas": 104.57,
     "horas_totales": 950.0,
     "precio_hora_usd": 3.05,
-    "last_seen": "2026-09-18T21:13:05.964922+00:00"
+    "last_seen": "2026-09-18T23:21:00.682661+00:00"
   },
   "GA-2026-024": {
     "call_id": "GA-2026-024",
     "titulo": "Turno completo: abrir la persiana",
     "completo": false,
-    "horas_subidas": 212.67,
+    "horas_subidas": 215.69,
     "horas_totales": 550.0,
     "precio_hora_usd": 3.5,
-    "last_seen": "2026-09-18T21:13:05.964922+00:00"
+    "last_seen": "2026-09-18T23:21:00.682661+00:00"
   },
   "GA-2026-025": {
     "call_id": "GA-2026-025",
@@ -69,24 +69,24 @@
     "horas_subidas": 36.27,
     "horas_totales": 400.0,
     "precio_hora_usd": 3.3,
-    "last_seen": "2026-09-18T21:13:05.964922+00:00"
+    "last_seen": "2026-09-18T23:21:00.682661+00:00"
   },
   "GA-2026-026": {
     "call_id": "GA-2026-026",
     "titulo": "Maquinaria pesada",
     "completo": false,
-    "horas_subidas": 117.34,
+    "horas_subidas": 119.36,
     "horas_totales": 350.0,
     "precio_hora_usd": 3.6,
-    "last_seen": "2026-09-18T21:13:05.964922+00:00"
+    "last_seen": "2026-09-18T23:21:00.682661+00:00"
   },
   "GA-2026-027": {
     "call_id": "GA-2026-027",
     "titulo": "Temporada de caza: primera luz",
     "completo": false,
-    "horas_subidas": 230.5,
+    "horas_subidas": 234.72,
     "horas_totales": 250.0,
     "precio_hora_usd": 3.65,
-    "last_seen": "2026-09-18T21:13:05.964922+00:00"
+    "last_seen": "2026-09-18T23:21:00.682661+00:00"
   }
 }
