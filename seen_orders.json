@@ -30,19 +30,19 @@
     "call_id": "GA-2026-015",
     "titulo": "Shooters y combate",
     "completo": false,
-    "horas_subidas": 1703.53,
+    "horas_subidas": 1710.23,
     "horas_totales": 4500.0,
     "precio_hora_usd": 3.1,
-    "last_seen": "2026-09-23T14:42:15.327453+00:00"
+    "last_seen": "2026-09-23T18:40:14.532967+00:00"
   },
   "GA-2026-016": {
     "call_id": "GA-2026-016",
     "titulo": "Survival, terror y co-op",
     "completo": false,
-    "horas_subidas": 933.86,
+    "horas_subidas": 934.87,
     "horas_totales": 3000.0,
     "precio_hora_usd": 3.1,
-    "last_seen": "2026-09-23T14:42:15.327453+00:00"
+    "last_seen": "2026-09-23T18:40:14.532967+00:00"
   },
   "GA-2026-023": {
     "call_id": "GA-2026-023",
@@ -51,16 +51,16 @@
     "horas_subidas": 193.28,
     "horas_totales": 950.0,
     "precio_hora_usd": 3.05,
-    "last_seen": "2026-09-23T14:42:15.327453+00:00"
+    "last_seen": "2026-09-23T18:40:14.532967+00:00"
   },
   "GA-2026-024": {
     "call_id": "GA-2026-024",
     "titulo": "Turno completo: abrir la persiana",
     "completo": false,
-    "horas_subidas": 324.39,
+    "horas_subidas": 326.4,
     "horas_totales": 550.0,
     "precio_hora_usd": 3.5,
-    "last_seen": "2026-09-23T14:42:15.327453+00:00"
+    "last_seen": "2026-09-23T18:40:14.532967+00:00"
   },
   "GA-2026-025": {
     "call_id": "GA-2026-025",
@@ -69,16 +69,16 @@
     "horas_subidas": 60.16,
     "horas_totales": 400.0,
     "precio_hora_usd": 3.3,
-    "last_seen": "2026-09-23T14:42:15.327453+00:00"
+    "last_seen": "2026-09-23T18:40:14.532967+00:00"
   },
   "GA-2026-026": {
     "call_id": "GA-2026-026",
     "titulo": "Maquinaria pesada",
     "completo": false,
-    "horas_subidas": 235.01,
+    "horas_subidas": 238.07,
     "horas_totales": 350.0,
     "precio_hora_usd": 3.6,
-    "last_seen": "2026-09-23T14:42:15.327453+00:00"
+    "last_seen": "2026-09-23T18:40:14.532967+00:00"
   },
   "GA-2026-027": {
     "call_id": "GA-2026-027",
@@ -87,6 +87,6 @@
     "horas_subidas": 252.35,
     "horas_totales": 250.0,
     "precio_hora_usd": 3.65,
-    "last_seen": "2026-09-23T14:42:15.327453+00:00"
+    "last_seen": "2026-09-23T18:40:14.532967+00:00"
   }
 }
