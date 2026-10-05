@@ -30,46 +30,46 @@
     "call_id": "GA-2026-015",
     "titulo": "Shooters y combate",
     "completo": false,
-    "horas_subidas": 2283.14,
+    "horas_subidas": 2294.61,
     "horas_totales": 4500.0,
     "precio_hora_usd": 3.1,
-    "last_seen": "2026-10-05T01:56:10.033826+00:00"
+    "last_seen": "2026-10-05T08:33:10.024795+00:00"
   },
   "GA-2026-016": {
     "call_id": "GA-2026-016",
     "titulo": "Survival, terror y co-op",
     "completo": false,
-    "horas_subidas": 1434.75,
+    "horas_subidas": 1444.51,
     "horas_totales": 3000.0,
     "precio_hora_usd": 3.1,
-    "last_seen": "2026-10-05T01:56:10.033826+00:00"
+    "last_seen": "2026-10-05T08:33:10.024795+00:00"
   },
   "GA-2026-023": {
     "call_id": "GA-2026-023",
     "titulo": "Mapa sin bordes: mundos abiertos",
     "completo": false,
-    "horas_subidas": 364.52,
+    "horas_subidas": 365.53,
     "horas_totales": 950.0,
     "precio_hora_usd": 3.05,
-    "last_seen": "2026-10-05T01:56:10.033826+00:00"
+    "last_seen": "2026-10-05T08:33:10.024795+00:00"
   },
   "GA-2026-024": {
     "call_id": "GA-2026-024",
     "titulo": "Turno completo: abrir la persiana",
-    "completo": false,
-    "horas_subidas": 540.64,
+    "completo": true,
+    "horas_subidas": 551.05,
     "horas_totales": 550.0,
     "precio_hora_usd": 3.5,
-    "last_seen": "2026-10-05T01:56:10.033826+00:00"
+    "last_seen": "2026-10-05T08:33:10.024795+00:00"
   },
   "GA-2026-025": {
     "call_id": "GA-2026-025",
     "titulo": "Ruta abierta: kilómetro cero",
     "completo": false,
-    "horas_subidas": 128.01,
+    "horas_subidas": 129.17,
     "horas_totales": 400.0,
     "precio_hora_usd": 3.3,
-    "last_seen": "2026-10-05T01:56:10.033826+00:00"
+    "last_seen": "2026-10-05T08:33:10.024795+00:00"
   },
   "GA-2026-026": {
     "call_id": "GA-2026-026",
@@ -78,7 +78,7 @@
     "horas_subidas": 353.38,
     "horas_totales": 350.0,
     "precio_hora_usd": 3.6,
-    "last_seen": "2026-10-05T01:56:10.033826+00:00"
+    "last_seen": "2026-10-05T08:33:10.024795+00:00"
   },
   "GA-2026-027": {
     "call_id": "GA-2026-027",
@@ -87,6 +87,6 @@
     "horas_subidas": 252.35,
     "horas_totales": 250.0,
     "precio_hora_usd": 3.65,
-    "last_seen": "2026-10-05T01:56:10.033826+00:00"
+    "last_seen": "2026-10-05T08:33:10.024795+00:00"
   }
 }
