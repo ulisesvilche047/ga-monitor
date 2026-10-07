@@ -33,7 +33,7 @@
     "horas_subidas": 2318.55,
     "horas_totales": 4500.0,
     "precio_hora_usd": 3.1,
-    "last_seen": "2026-10-07T14:15:37.611427+00:00"
+    "last_seen": "2026-10-07T20:01:06.902635+00:00"
   },
   "GA-2026-016": {
     "call_id": "GA-2026-016",
@@ -42,7 +42,7 @@
     "horas_subidas": 1464.23,
     "horas_totales": 3000.0,
     "precio_hora_usd": 3.1,
-    "last_seen": "2026-10-07T14:15:37.611427+00:00"
+    "last_seen": "2026-10-07T20:01:06.902635+00:00"
   },
   "GA-2026-023": {
     "call_id": "GA-2026-023",
@@ -51,7 +51,7 @@
     "horas_subidas": 372.42,
     "horas_totales": 950.0,
     "precio_hora_usd": 3.05,
-    "last_seen": "2026-10-07T14:15:37.611427+00:00"
+    "last_seen": "2026-10-07T20:01:06.902635+00:00"
   },
   "GA-2026-024": {
     "call_id": "GA-2026-024",
@@ -60,7 +60,7 @@
     "horas_subidas": 551.05,
     "horas_totales": 550.0,
     "precio_hora_usd": 3.5,
-    "last_seen": "2026-10-07T14:15:37.611427+00:00"
+    "last_seen": "2026-10-07T20:01:06.902635+00:00"
   },
   "GA-2026-025": {
     "call_id": "GA-2026-025",
@@ -69,7 +69,7 @@
     "horas_subidas": 139.6,
     "horas_totales": 400.0,
     "precio_hora_usd": 3.3,
-    "last_seen": "2026-10-07T14:15:37.611427+00:00"
+    "last_seen": "2026-10-07T20:01:06.902635+00:00"
   },
   "GA-2026-026": {
     "call_id": "GA-2026-026",
@@ -78,7 +78,7 @@
     "horas_subidas": 353.38,
     "horas_totales": 350.0,
     "precio_hora_usd": 3.6,
-    "last_seen": "2026-10-07T14:15:37.611427+00:00"
+    "last_seen": "2026-10-07T20:01:06.902635+00:00"
   },
   "GA-2026-027": {
     "call_id": "GA-2026-027",
@@ -87,51 +87,51 @@
     "horas_subidas": 252.35,
     "horas_totales": 250.0,
     "precio_hora_usd": 3.65,
-    "last_seen": "2026-10-07T14:15:37.611427+00:00"
+    "last_seen": "2026-10-07T20:01:06.902635+00:00"
   },
   "GA-2026-028": {
     "call_id": "GA-2026-028",
     "titulo": "Fuego cruzado",
     "completo": false,
-    "horas_subidas": 87.52,
+    "horas_subidas": 106.72,
     "horas_totales": 4500.0,
     "precio_hora_usd": 3.1,
-    "last_seen": "2026-10-07T14:15:37.611427+00:00"
+    "last_seen": "2026-10-07T20:01:06.902635+00:00"
   },
   "GA-2026-029": {
     "call_id": "GA-2026-029",
     "titulo": "Noche cerrada: survival y terror",
     "completo": false,
-    "horas_subidas": 53.84,
+    "horas_subidas": 64.24,
     "horas_totales": 3000.0,
     "precio_hora_usd": 3.1,
-    "last_seen": "2026-10-07T14:15:37.611427+00:00"
+    "last_seen": "2026-10-07T20:01:06.902635+00:00"
   },
   "GA-2026-033": {
     "call_id": "GA-2026-033",
     "titulo": "Explorá sin límites",
     "completo": false,
-    "horas_subidas": 23.48,
+    "horas_subidas": 26.56,
     "horas_totales": 2000.0,
     "precio_hora_usd": 3.05,
-    "last_seen": "2026-10-07T14:15:37.611427+00:00"
+    "last_seen": "2026-10-07T20:01:06.902635+00:00"
   },
   "GA-2026-034": {
     "call_id": "GA-2026-034",
     "titulo": "Jornada completa",
     "completo": false,
-    "horas_subidas": 44.87,
+    "horas_subidas": 54.77,
     "horas_totales": 1000.0,
     "precio_hora_usd": 3.5,
-    "last_seen": "2026-10-07T14:15:37.611427+00:00"
+    "last_seen": "2026-10-07T20:01:06.902635+00:00"
   },
   "GA-2026-035": {
     "call_id": "GA-2026-035",
     "titulo": "A fondo",
     "completo": false,
-    "horas_subidas": 21.37,
+    "horas_subidas": 23.22,
     "horas_totales": 1000.0,
     "precio_hora_usd": 3.3,
-    "last_seen": "2026-10-07T14:15:37.611427+00:00"
+    "last_seen": "2026-10-07T20:01:06.902635+00:00"
   }
 }
