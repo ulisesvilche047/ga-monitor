@@ -93,19 +93,19 @@
     "call_id": "GA-2026-028",
     "titulo": "Fuego cruzado",
     "completo": false,
-    "horas_subidas": 949.17,
+    "horas_subidas": 953.78,
     "horas_totales": 4500.0,
     "precio_hora_usd": 3.1,
-    "last_seen": "2026-10-27T02:28:42.426703+00:00"
+    "last_seen": "2026-10-27T08:18:01.794423+00:00"
   },
   "GA-2026-029": {
     "call_id": "GA-2026-029",
     "titulo": "Noche cerrada: survival y terror",
     "completo": false,
-    "horas_subidas": 726.67,
+    "horas_subidas": 728.97,
     "horas_totales": 3000.0,
     "precio_hora_usd": 3.1,
-    "last_seen": "2026-10-27T02:28:42.426703+00:00"
+    "last_seen": "2026-10-27T08:18:01.794423+00:00"
   },
   "GA-2026-033": {
     "call_id": "GA-2026-033",
@@ -114,24 +114,51 @@
     "horas_subidas": 115.76,
     "horas_totales": 2000.0,
     "precio_hora_usd": 3.05,
-    "last_seen": "2026-10-27T02:28:42.426703+00:00"
+    "last_seen": "2026-10-27T08:18:01.794423+00:00"
   },
   "GA-2026-034": {
     "call_id": "GA-2026-034",
     "titulo": "Jornada completa",
     "completo": false,
-    "horas_subidas": 391.45,
+    "horas_subidas": 395.55,
     "horas_totales": 1000.0,
     "precio_hora_usd": 3.5,
-    "last_seen": "2026-10-27T02:28:42.426703+00:00"
+    "last_seen": "2026-10-27T08:18:01.794423+00:00"
   },
   "GA-2026-035": {
     "call_id": "GA-2026-035",
     "titulo": "A fondo",
     "completo": false,
-    "horas_subidas": 147.5,
+    "horas_subidas": 148.51,
     "horas_totales": 1000.0,
     "precio_hora_usd": 3.3,
-    "last_seen": "2026-10-27T02:28:42.426703+00:00"
+    "last_seen": "2026-10-27T08:18:01.794423+00:00"
+  },
+  "GA-2026-036": {
+    "call_id": "GA-2026-036",
+    "titulo": "Ruta larga",
+    "completo": false,
+    "horas_subidas": 1.01,
+    "horas_totales": 2600.0,
+    "precio_hora_usd": 3.1,
+    "last_seen": "2026-10-27T08:18:01.794423+00:00"
+  },
+  "GA-2026-037": {
+    "call_id": "GA-2026-037",
+    "titulo": "Filo y escudo",
+    "completo": false,
+    "horas_subidas": 0.0,
+    "horas_totales": 2000.0,
+    "precio_hora_usd": 3.4,
+    "last_seen": "2026-10-27T08:18:01.794423+00:00"
+  },
+  "GA-2026-038": {
+    "call_id": "GA-2026-038",
+    "titulo": "Acción sin pausa",
+    "completo": false,
+    "horas_subidas": 0.0,
+    "horas_totales": 1400.0,
+    "precio_hora_usd": 3.25,
+    "last_seen": "2026-10-27T08:18:01.794423+00:00"
   }
 }
