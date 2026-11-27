@@ -160,5 +160,50 @@
     "horas_totales": 1400.0,
     "precio_hora_usd": 3.25,
     "last_seen": "2026-11-24T23:27:42.262710+00:00"
+  },
+  "GA-2026-040": {
+    "call_id": "GA-2026-040",
+    "titulo": "Ruta abierta",
+    "completo": false,
+    "horas_subidas": 3.1,
+    "horas_totales": 2500.0,
+    "precio_hora_usd": 3.8,
+    "last_seen": "2026-11-27T10:33:31.513684+00:00"
+  },
+  "GA-2026-041": {
+    "call_id": "GA-2026-041",
+    "titulo": "Fuego cruzado",
+    "completo": false,
+    "horas_subidas": 3.9,
+    "horas_totales": 4500.0,
+    "precio_hora_usd": 3.6,
+    "last_seen": "2026-11-27T10:33:31.513684+00:00"
+  },
+  "GA-2026-042": {
+    "call_id": "GA-2026-042",
+    "titulo": "Filo y escudo",
+    "completo": false,
+    "horas_subidas": 2.25,
+    "horas_totales": 3000.0,
+    "precio_hora_usd": 3.55,
+    "last_seen": "2026-11-27T10:33:31.513684+00:00"
+  },
+  "GA-2026-043": {
+    "call_id": "GA-2026-043",
+    "titulo": "Acción sin pausa",
+    "completo": false,
+    "horas_subidas": 3.47,
+    "horas_totales": 2500.0,
+    "precio_hora_usd": 3.2,
+    "last_seen": "2026-11-27T10:33:31.513684+00:00"
+  },
+  "GA-2026-045": {
+    "call_id": "GA-2026-045",
+    "titulo": "Explorá sin límites",
+    "completo": false,
+    "horas_subidas": 1.01,
+    "horas_totales": 1500.0,
+    "precio_hora_usd": 3.2,
+    "last_seen": "2026-11-27T10:33:31.513684+00:00"
   }
 }
